@@ -1,5 +1,5 @@
 # Grebnev Maxim
- Minsk, Belarus.
+ Minsk, Belarus..
 
 Tel.: + 375 29 571 22 88 
 E-mail: maximilian242000@mail.ru
