@@ -24,7 +24,7 @@ body {
   [class$="h2"] { font-size: 24px; }
   
   @media (min-width: 1441px) {
-    .main { height: 100vh; }
+    .main { height: 125vh; }
   }
   
   .main__essential-info-wrapper { display: flex; }
